@@ -10,4 +10,8 @@ Make sure in audio settings to check "automatically join audio by computer audio
 Also make sure to change the keyboard shorcut of "end meeting" to " * " or change the code to any keybind of your chosing. 
 And always allow zoom to open links of this type in associated app, when it asks the first time (most people already have this on)
 
-To install pynput, (in pycharm) click on file, settings, python interpreter, the plus button on the right, and search for "pynput" and install the package.  
+To install pynput, (in pycharm) click on file, settings, python interpreter, the plus button on the right, and search for "pynput" and install the package.   
+
+To add your class periods, go to data.py and fill in the requested info, add or delete some depending on number of periods. 
+
+NOTE: "datetime" runs on a 24 hour clock, not a 12 hour 
