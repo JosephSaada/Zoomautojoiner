@@ -19,7 +19,8 @@ To add your class periods, go to data.py and fill in the requested info, add or 
 
 NOTE: "datetime" runs on a 24 hour clock, not a 12 hour 
 
-If you would like for the zoom to open with a prerecorded video check out: https://youtu.be/lDLA67DdYNE 
+If you would like for the zoom to open with a prerecorded video check out: https://youtu.be/lDLA67DdYNE  
+Chrome extension to close the chrome tab created by zoom: https://chrome.google.com/webstore/detail/zoom-closer/appjbedfhcmpknanmbndpojcllfaemal
 
 Stackoverflow was under maintence at the time of creation, so errors are bound to emerge  
 
