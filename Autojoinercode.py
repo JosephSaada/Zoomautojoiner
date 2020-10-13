@@ -6,7 +6,8 @@ import webbrowser
 
 isStarted = False
 keyboard = Controller()
-classperiod = int(input("Enter school period to start at: "))
+classperiod = int(input("Enter school period to start at: ")) 
+# comment out the operation below if you have a zero period
 classperiod -= 1
 
 for i in lst:
