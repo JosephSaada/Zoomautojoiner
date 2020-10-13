@@ -9,7 +9,7 @@ I interegrated this with a looped obs studio video of me FOR EDUCATIONAL PURPOSE
 
 Make sure to mark "Ask me to confrim when I leave a meeting" in zoom general settings OFF  
 Make sure in audio settings to check "automatically join audio by computer audio when joining a meeting" and "mute my microphone when joining a meeting" 
-Also make sure to change the keyboard shorcut of "end meeting" to " * " or change the code to any keybind of your chosing. 
+Also make sure to change the keyboard shorcut of "end meeting" to " - " or change the code to any keybind of your chosing. 
 And always allow zoom to open links of this type in associated app, when it asks the first time (most people already have this on)
 
 To install pynput, (in pycharm) click on file, settings, python interpreter, the plus button on the right, and search for "pynput" and install the package.   
