@@ -12,7 +12,7 @@ for i in lst:
         if not isStarted:
             if datetime.now().hour == int(i[1].split(':')[0]) and datetime.now().minute == int(i[1].split(':')[1]):
                 webbrowser.open(i[0])
-            isStarted = True
+                isStarted = True
         elif isStarted:
             if datetime.now().hour == int(i[2].split(':')[0]) and datetime.now().minute == int(i[2].split(':')[1]):
                 keyboard.press('*')   
