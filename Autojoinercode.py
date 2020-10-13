@@ -19,5 +19,6 @@ for i in lst:
 # put in keybind for "end meeting"
                 time.sleep(1)
                 keyboard.press(Key.enter)
-                isStarted = False
+                isStarted = False 
+                i += 1
                 break
