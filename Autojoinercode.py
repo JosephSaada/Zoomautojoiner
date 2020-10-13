@@ -7,6 +7,8 @@ import webbrowser
 isStarted = False
 keyboard = Controller()
 
+i = input("Enter school period to start at: ")
+print(i)
 for i in lst:
     while True:
         if not isStarted:
