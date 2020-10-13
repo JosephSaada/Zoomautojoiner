@@ -13,11 +13,13 @@ classperiod -= 1
 for i in lst:
     while True:
         if not isStarted:
-            if datetime.now() == (lst[classperiod][1]):
+            if datetime.now().hour == int(lst[classperiod][1].split(':')[0]) and datetime.now().minute == \
+                    int(lst[classperiod][1].split(':')[1]):
                 webbrowser.open(lst[classperiod][0])
                 isStarted = True
         elif isStarted:
-            if datetime.now() == (lst[classperiod][2]):
+            if datetime.now().hour == int(lst[classperiod][2].split(':')[0]) and datetime.now().minute == \
+                    int(lst[classperiod][2].split(':')[1]):
                 keyboard.press('-')
                 # put in keybind for "end meeting"
                 time.sleep(1)
