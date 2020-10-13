@@ -18,4 +18,4 @@ NOTE: "datetime" runs on a 24 hour clock, not a 12 hour
 
 If you would like for the zoom to open with a prerecorded video check out: https://youtu.be/lDLA67DdYNE 
 
-Trouble or help contact: josephsaada@protonmail.ch
+Trouble or help contact info: josephsaada@protonmail.ch
