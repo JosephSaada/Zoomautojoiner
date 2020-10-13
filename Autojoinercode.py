@@ -7,6 +7,7 @@ import webbrowser
 isStarted = False
 keyboard = Controller()
 
+# arrays in python start at 0!!!!!, so if you have no zero period, minus one from your targeted school period
 i = input("Enter school period to start at: ")
 print(i)
 for i in lst:
