@@ -18,6 +18,6 @@ for i in lst:
                 keyboard.press('*')   
 # put in keybind for "end meeting"
                 time.sleep(1)
-            keyboard.press(Key.enter)
-            isStarted = False
-            break
+                keyboard.press(Key.enter)
+                isStarted = False
+                break
