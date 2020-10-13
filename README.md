@@ -7,7 +7,7 @@ I interegrated this with a looped obs studio video of me FOR EDUCATIONAL PURPOSE
 4. Exits the meeting using zoom hotkey and pynput when they match 
 5. In for loop to move to the next meeting details and repeat the entire process
 
-Make sure to mark "Ask me to confrim when I leave a meeting" in zoom general settings is marked OFF  
+Make sure to mark "Ask me to confrim when I leave a meeting" in zoom general settings OFF  
 Make sure in audio settings to check "automatically join audio by computer audio when joining a meeting" and "mute my microphone when joining a meeting" 
 Also make sure to change the keyboard shorcut of "end meeting" to " * " or change the code to any keybind of your chosing. 
 And always allow zoom to open links of this type in associated app, when it asks the first time (most people already have this on)
