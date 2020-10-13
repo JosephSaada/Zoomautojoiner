@@ -7,9 +7,6 @@ import webbrowser
 isStarted = False
 keyboard = Controller()
 
-# arrays in python start at 0!!!!!, so if you have no zero period, minus one from your targeted school period
-i = input("Enter school period to start at: ")
-print(i)
 for i in lst:
     while True:
         if not isStarted:
@@ -23,5 +20,4 @@ for i in lst:
                 time.sleep(1)
                 keyboard.press(Key.enter)
                 isStarted = False 
-                i += 1
                 break
