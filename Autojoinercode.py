@@ -24,5 +24,8 @@ for i in lst:
                 # put in keybind for "end meeting"
                 time.sleep(1)
                 isStarted = False
-                classperiod += 1
+                if classperiod - 1 < 6:
+                    classperiod += 1
+                else:
+                    classperiod = 0
                 break
