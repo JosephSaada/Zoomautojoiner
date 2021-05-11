@@ -23,6 +23,8 @@ If you would like for the zoom to open with a prerecorded video check out: https
 Chrome extension to close the chrome tab created by zoom: https://chrome.google.com/webstore/detail/zoom-closer/appjbedfhcmpknanmbndpojcllfaemal 
 OBS Virtual Cam add-on: https://github.com/Fenrirthviti/obs-virtual-cam/releases 
 
+Breakout rooms: just install a random auto clicker and place it where the pop up appears 
+
 Stackoverflow was under maintence at the time of creation, so errors are bound to emerge  
 
 Trouble or help contact info: josephsaada@protonmail.ch
